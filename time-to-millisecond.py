@@ -6,7 +6,6 @@ def time_past_0(h, m, s):
     return hours + minutes + seconds
 
 
-
 print(time_past_0(3, 19, 30))
 answer = time_past_0(4, 40, 32)
 
